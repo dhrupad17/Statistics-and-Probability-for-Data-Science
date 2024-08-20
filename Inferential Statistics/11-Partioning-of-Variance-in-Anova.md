@@ -1,0 +1,11 @@
+# Partioning of Variance in ANOVA
+![image](https://github.com/user-attachments/assets/4844c103-ad76-43b1-8e10-2706aa8c52d6)
+![image](https://github.com/user-attachments/assets/fd8ca07b-e3ac-4170-bcca-6d08b201cbee)
+![image](https://github.com/user-attachments/assets/6037c6a5-130e-4cd0-a45f-db5cbaf7afef)
+![image](https://github.com/user-attachments/assets/e23126c3-4f0e-4e84-829e-1c469c37b44e)
+![image](https://github.com/user-attachments/assets/d6cf1956-4609-4401-847e-167ced2ad0f6)
+![image](https://github.com/user-attachments/assets/b51e0b09-f2dd-4c29-949f-67329a6afbe1)
+![image](https://github.com/user-attachments/assets/27ad50a1-c0ca-49c1-b3fc-95e5bd443594)
+![image](https://github.com/user-attachments/assets/9379d372-d94f-4870-9bf2-71285ad028c6)
+![image](https://github.com/user-attachments/assets/85df9363-31a2-451e-aed1-6d2582029edc)
+![image](https://github.com/user-attachments/assets/7392a802-ccbd-4d83-93db-5009c4891c2d)
