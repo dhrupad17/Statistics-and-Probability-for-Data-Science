@@ -2,6 +2,9 @@
 
 Hypothesis testing is a fundamental aspect of inferential statistics, allowing us to make decisions or inferences about a population based on sample data. Below is a summary of key concepts, steps, and terminologies used in hypothesis testing.
 
+![image](https://github.com/user-attachments/assets/139bcf7f-d4f8-4fc3-91c2-8d029a1cae2e)
+
+
 ## 1. Key Concepts
 
 ### Null Hypothesis (H₀)
